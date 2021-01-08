@@ -12,5 +12,5 @@ void mul(int a, int b) {
 }
 
 void divs(int a, int b) {
-	printf("%d / %d = %d",a,b,a/b) // 주석추가했습니다.
+	printf("%d / %d = %d",a,b,a/b) // 주석추가했습니다.ㅇㄴㅁㅇㄴㅁㅇ
 }
